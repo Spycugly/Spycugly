@@ -28,8 +28,8 @@ I'm a full-stack developer and content creator building my version of the digita
 #
 
 <details>
- <summary><h3>👨‍💻 Spycugly's Bio/h3></summary>
+ <summary><h3>👨‍💻 Spycugly's Bio</h3></summary>
    Graphic Designer and Developer with experience with multiple media and software, Internationally opened to every challenge from both the concrete world and the virtual one. Interested in entertainment, technology, new media, art and AI.
 
 [website]: 
-[youtube]: https://youtube.com/spycugly
+[youtube]:
