@@ -26,10 +26,3 @@ I'm a creative storyteller and Product Designer specializing in interaction desi
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Spycugly&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-<details>
- <summary><h3>👨‍💻 Spycugly's Bio</h3></summary>
-   Graphic Designer and Developer with experience with multiple media and software, Internationally opened to every challenge from both the concrete world and the virtual one. Interested in entertainment, technology, new media, art and AI.
-
-[website]: 
-[youtube]:
