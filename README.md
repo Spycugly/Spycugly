@@ -1,8 +1,8 @@
 # 😎 Spycugly
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Product Designer/Filmmaker/Creator)`**
 
-I'm a full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+I'm a creative storyteller and Product Designer specializing in interaction design, service design, and creating intuitive, user-centric experiences. Passionate about simplifying complex technologies and driving innovation in tech and blockchain platforms.
 ---
 
 ### 🧰 Languages and Tools
